@@ -17,5 +17,5 @@ products:
       every one and experience level. "
 values:
   heading: Our values
-  text: We are very ethical about your own content we post without any plagiatism
+  text: We are very ethical about your own content we post without any plagiarism
 ---
